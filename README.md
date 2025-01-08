@@ -3,6 +3,9 @@ Welcome to my Advent of Code 2024 submissions, written in the Mojo programming l
 
 Big thanks to the Modular community on Discord, Python community, Linux community, and the broader programming community for the help along the way. The feedback and help was invaluable as I explored this new language.
 
+## Getting Started
+Please see [Modular Documentation](https://docs.modular.com/) for installation instructions to get started.
+
 ## A Hybrid Approach 🚀
 To ensure accuracy, I often used Python to cross-reference my Mojo solutions and validate my logic. Python’s mature ecosystem and extensive community resources proved to be an excellent companion for understanding and solving these challenges.
 
