@@ -21,7 +21,7 @@ If you're stuck on incomplete solutions, please see [proofing repository](https:
 - Modular Forum: [Explore Discussions](https://forum.modular.com/)
 - Python Discord: [Connect with Python Enthusiasts](https://discord.com/invite/python) 
 
-Feel free to provide feedback, share your solutions, or suggest improvements. Let’s learn and grow together in this Advent of Code journey!
+Feel free to provide feedback, share your solutions, or suggest improvements. 
 
 Happy coding, and good luck! 🎄✨
 
